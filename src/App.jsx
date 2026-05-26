@@ -73,7 +73,7 @@ function App() {
         <h2>Contact Us</h2>
 
         <p>
-          <strong>Phone:</strong> 9341282721
+          <strong>Phone:</strong> 9341282727
         </p>
 
         <p>
