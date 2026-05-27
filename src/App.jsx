@@ -4,31 +4,36 @@ function App() {
   return (
     <div className="container">
       <header className="hero">
-        <h1>Sowmya Electricals</h1>
-        <p className="subtitle">
-          Licensed Electrical Contractor in Bangalore & Across Karnataka
-        </p>
+  <h1>
+    Professional Electrical Work & Electrician Services in Bangalore
+  </h1>
 
-        <p>
-          Providing electrical and plumbing services for homes, apartments,
-          villas, factories, layouts, commercial buildings, schools, colleges,
-          and industrial sheds.
-        </p>
+  <p className="subtitle">
+    Licensed Electrical Contractor in Bangalore & Across Karnataka
+  </p>
 
-        <div className="buttons">
-          <a href="tel:9341282721" className="btn">
-            Call Now
-          </a>
+  <p>
+    Sowmya Electricals provides professional electrical work,
+    house wiring, electrical repair, installation, maintenance,
+    transformer services, plumbing work, and commercial electrical
+    services across Bangalore and Karnataka.
+  </p>
 
-          <a
-            href="https://wa.me/919341282721"
-            target="_blank"
-            className="btn whatsapp"
-          >
-            WhatsApp Quote
-          </a>
-        </div>
-      </header>
+  <div className="buttons">
+    <a href="tel:9341282721" className="btn">
+      Call Now
+    </a>
+
+    <a
+      href="https://wa.me/919341282721"
+      target="_blank"
+      	   rel="noreferrer"
+   	   className="btn whatsapp"
+      >
+        WhatsApp Quote
+       </a>
+       </div>
+       </header>
 
       <section className="section">
         <h2>About Us</h2>
